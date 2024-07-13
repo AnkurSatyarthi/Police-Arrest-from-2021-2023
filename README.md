@@ -6,7 +6,8 @@ This data set contains data from individuals arrested by a police officer in Mon
 
 About Montgomery County Maryland’s Digital Government Strategy
 
-![MC_Seal.png](attachment:37d8e193-ba25-4ebf-96af-48f0623e1899.png)
+![MC_Seal](https://github.com/user-attachments/assets/4d7b60e3-131f-44c3-b359-065792fbea00)
+
 
 The County has been an early adopter of technology and promoter of a transparent and efficient government. This represents the County’s commitment to being an inclusive, innovative and transparent government that is accountable and responsive and maintains a strong and vibrant economy. The County has been a leader in open government since the launch of its e-Government website initiative in 1992. Since then, the County has sustained a strong commitment to digitizing its information and services.
 
